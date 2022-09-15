@@ -14,8 +14,8 @@
 
       System.out.println();
       System.out.println();
-      System.out.print("Meaure today's knowledge");
-      System.out.println("By yesterday's confusion");
+      System.out.print("Measure today's knowledge");
+      System.out.println(" by yesterday's confusion");
       System.out.println();
       System.out.println("Bewilderment + Exposure = Obviousse");
       System.out.println();
